@@ -30,13 +30,13 @@
 ###
 
 <div align="center">
-  <a href="https://wa.me/16981249000" target="_blank">
+  <a href="https://wa.me/16981249000" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/maxmohamedd?igsh=MXAyb21wMXl4bmhxZg%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/maxmohamedd?igsh=MXAyb21wMXl4bmhxZg%3D%3D&utm_source=qr" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/max-mohamed-freitas" target="_blank">
+  <a href="www.linkedin.com/in/max-mohamed-freitas" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
 </div>
@@ -44,10 +44,10 @@
 ###
 
 <div align="center">
-  <a href="mailto:maxmohamedfreitas@gmail.com" target="_blank">
+  <a href="mailto:maxmohamedfreitas@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
-  <a href="mailto:maxmohamedf@hotmail.com" target="_blank">
+  <a href="mailto:maxmohamedf@hotmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="microsoft-outlook logo"  />
   </a>
 </div>
