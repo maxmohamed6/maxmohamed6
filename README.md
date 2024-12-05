@@ -1,4 +1,11 @@
-<h2 align="center">Meu nome é Max Mohamed Freitas, sou originalmente de Ribeirão Preto - SP. <br>Faço faculdade no Instituto Federal do Sul de Minas Gerais Campus Passos em Passos - MG.<br>Estudante de Ciência da Computação, busco me introduzir no mercado de trabalho e aprender o máximo que puder para ter um futuro brilhante.</h2>
+<h3 align="center">Meu nome é Max Mohamed Freitas, sou originalmente de Ribeirão Preto - SP. <br>Faço faculdade no Instituto Federal do Sul de Minas Gerais Campus Passos em Passos - MG.<br>Estudante de Ciência da Computação, busco me introduzir no mercado de trabalho e aprender o máximo que puder para ter um futuro brilhante.</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxmohamed6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmohamed6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -23,6 +30,12 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maxmohamed6/maxmohamed6/output/snake.svg" alt="Snake animation" />
 
 ###
 
