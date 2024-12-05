@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div><br>
 
-<h2>Redes Sociais</h2>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxmohamed6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -30,6 +30,7 @@
 </div>
 
 ###
+<h2>Redes Sociais</h2>
 
 <div align="center">
   <a href="https://wa.me/16981249000" target="_blank">
