@@ -1,5 +1,10 @@
-<h2>Sobre mim 📋</h2>
-<h3 align="center">Meu nome é Max Mohamed Freitas, sou originalmente de Ribeirão Preto - SP. <br>Bacharel em Ciência da Computação.</h3>
+<h2>About me 📋</h2>
+<h3 align="center">
+Hi, I'm Max Mohamed Freitas 👋<br>
+Born in Ribeirão Preto, São Paulo, Brazil 🇧🇷<br>
+Bachelor's Degree in Computer Science<br>
+Passionate about web dev and art.
+</h3>
 
 <br>
 
@@ -46,7 +51,7 @@
 </div><br>
 
 ###
-<h2>Redes Sociais 🧑‍💻</h2>
+<h2>Social Media 👥</h2>
 
 <div align="center">
   <a href="https://wa.me/16981249000" target="_blank">
@@ -55,7 +60,7 @@
   <a href="https://www.instagram.com/maxmohamedd?igsh=MXAyb21wMXl4bmhxZg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="86" height="50" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/max-mohamed-freitas" target="_blank">
+  <a href="https://www.linkedin.com/in/max-mohamed-freitas" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="86" height="50" alt="linkedin logo"  />
   </a>
   <a href="mailto:maxmohamedfreitas@gmail.com" target="_blank">
