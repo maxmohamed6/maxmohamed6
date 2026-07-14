@@ -1,6 +1,6 @@
-<h2 align="center">👋 About Me</h2>
+<h2>👋 About Me</h2>
 
-<p align="center">
+<p align="center" style="font-size: 30px">
 🇧🇷 I'm <strong>Max Mohamed Freitas</strong> from Ribeirão Preto, São Paulo 🇧🇷<br><br>
 🎓 Bachelor's Degree in Computer Science.<br>
 💻 Passionate about Web Development.<br>
