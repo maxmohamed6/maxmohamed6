@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="86" height="50" alt="instagram logo"  />
   </a>
   <img width="30" />
-  <a href="https://www.linkedin.com/in/max-mohamed-freitas" target="_blank">
+  <a href="https://www.linkedin.com/in/maxmohamedf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="86" height="50" alt="linkedin logo"  />
   </a>
   <img width="30" />
