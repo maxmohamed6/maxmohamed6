@@ -1,6 +1,6 @@
-<h2>👋 About Me</h2>
+<h1>👋 About Me</h1>
 
-<p align="center" style="font-size: 30px">
+<p align="center">
 🇧🇷 I'm <strong>Max Mohamed Freitas</strong> from Ribeirão Preto, São Paulo 🇧🇷<br><br>
 🎓 Bachelor's Degree in Computer Science.<br>
 💻 Passionate about Web Development.<br>
@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<h2>Programming Languages 🗣️</h2>
+<h1>Programming Languages 🗣️</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" />
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" />
 </div><br>
 
-<h2>Web Development 🌐</h2>
+<h1>Web Development 🌐</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60" />
@@ -34,19 +34,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="60" />
 </div><br>
 
-<h2>Mobile 📱</h2>
+<h1>Mobile 📱</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="60" />
 </div><br>
 
-<h2>Database 📁</h2>
+<h1>Database 📁</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="60" />
 </div><br>
 
-<h2>Social Media 👥</h2>
+<h1>Social Media 👥</h1>
 
 <div align="center">
   <a href="https://wa.me/16981249000" target="_blank">
