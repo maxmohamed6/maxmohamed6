@@ -1,11 +1,10 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-🇧🇷 I'm <strong>Max Mohamed Freitas</strong> from Ribeirão Preto, São Paulo, Brazil.<br>
+🇧🇷 I'm <strong>Max Mohamed Freitas</strong> from Ribeirão Preto, São Paulo 🇧🇷<br><br>
 🎓 Bachelor's Degree in Computer Science.<br>
-💻 Passionate about Web and Mobile Development.<br>
-🎨 I also enjoy digital art and UI design.<br>
-🌱 Currently learning Flutter, Next.js, and TypeScript.
+💻 Passionate about Web Development.<br>
+🎨 I also enjoy art and UI design.<br>
 </p>
 <br>
 
