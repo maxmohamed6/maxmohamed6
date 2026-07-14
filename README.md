@@ -1,5 +1,5 @@
 <h2>Sobre mim 📋</h2>
-<h3 align="center">Meu nome é Max Mohamed Freitas, sou originalmente de Ribeirão Preto - SP. <br>Faço faculdade no Instituto Federal do Sul de Minas Gerais Campus Passos em Passos - MG.<br>Estudante de Ciência da Computação, busco me introduzir no mercado de trabalho e aprender o máximo que puder para ter um futuro brilhante.</h3>
+<h3 align="center">Meu nome é Max Mohamed Freitas, sou originalmente de Ribeirão Preto - SP. <br>Bacharel em Ciência da Computação.</h3>
 
 <br>
 
